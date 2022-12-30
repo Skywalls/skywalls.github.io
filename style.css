@@ -117,7 +117,7 @@ body{
 p::after{   
     animation-duration: 1s;
     animation-name: switching;
-    content: "Learning...";
+    content: "Always Forward.";
 }
   
 p:hover::after {
